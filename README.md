@@ -1,6 +1,7 @@
 # DEB IBM Daphnia magna
 
  ![Github license](https://img.shields.io/github/license/gaiac-eco/DEB_IBM_Daphnia_magna.svg)
+ [![DOI](https://zenodo.org/badge/156427855.svg)](https://zenodo.org/badge/latestdoi/156427855)
 
  This repository contains a *dynamic energy budget individual based population model* for *Daphnia magna*
  
