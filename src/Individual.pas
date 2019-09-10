@@ -416,7 +416,7 @@ begin
      //calculates stress function
      st:=(1/cT)*math.Max(0, (M-c0));
      //changes parameter value:
-     kr:=kr0*exp(-s); //this physiological mode directly acts on reproduction (R), here implemented in the same way as above, as only the interpretation differs
+     kr:=kr0*exp(-st); //this physiological mode directly acts on reproduction (R), here implemented in the same way as above, as only the interpretation differs
    end;
 
 end;

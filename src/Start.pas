@@ -101,8 +101,8 @@ end;
 
 procedure TForm_Start.Info1Click(Sender: TObject);
 begin
- Application.Title:='DEB based IBM for Daphnia magna V1.1';
- showmessage('Copyright (c) 2018 Andre Gergs' +#10#13+  'Licensed under AGPL-3.0 ' +#10#13+ 'For details see https://www.gnu.org/licenses/agpl-3.0.txt');
+ Application.Title:='DEB based IBM for Daphnia magna V1.2';
+ showmessage('Copyright (c) 2019 Andre Gergs' +#10#13+  'Licensed under AGPL-3.0 ' +#10#13+ 'For details see https://www.gnu.org/licenses/agpl-3.0.txt');
 end;
 
 {xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
